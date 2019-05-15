@@ -2,7 +2,7 @@ import struct
 
 
 def tamper(student_id):
-  pass
+  continue
 
 
 def detect():
